@@ -1,1 +1,5 @@
-git
+backend/.env
+backend/node_modules/
+backend/.rag-cache/
+node_modules/
+.DS_Store
